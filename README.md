@@ -8,15 +8,15 @@ Vue boilerplate to start a new project. Includes routes and store.
 Vue  
 Vue Router  
 Vuex store  
-Webpack (based on my Webpack Boilerplate https://github.com/AndreMarquesDev/WebpackBoilerplate)  
+Webpack (based on my [Webpack Boilerplate](https://github.com/AndreMarquesDev/WebpackBoilerplate))  
 PWA ready
 
 ### Author
 
 André Marques  
-GitHub: https://github.com/AndreMarquesDev  
-CodePen: https://codepen.io/AndreMarquesDev  
-Twitter: https://twitter.com/BazingaCS
+[GitHub](https://github.com/AndreMarquesDev)  
+[CodePen](https://codepen.io/AndreMarquesDev)  
+[Twitter](https://twitter.com/BazingaCS)
 
 ### License
 
