@@ -1,19 +1,36 @@
 # Vue Boilerplate
-Vue boilerplate to start a new project. Includes routes and store.
+Vue boilerplate to start a new project. Includes routes and store.  
 
-___
+## About
 
-# Features / Contents
+### Features / Contents
 
-- `npm start` to run locally
-- `npm run build` to build a production ready app
-- Webpack (based on my Webpack Boilerplate https://github.com/AndreMarquesDev/WebpackBoilerplate)
-- Vue Router
-- Vuex store
-- PWA ready
+Vue  
+Vue Router  
+Vuex store  
+Webpack (based on my Webpack Boilerplate https://github.com/AndreMarquesDev/WebpackBoilerplate)  
+PWA ready
 
-https://andremarquesdev.github.io/VueBoilerplate
-
+### Author
 
 André Marques
-https://github.com/AndreMarquesDev
+GitHub: https://github.com/AndreMarquesDev
+CodePen: https://codepen.io/AndreMarquesDev
+Twitter: https://twitter.com/BazingaCS
+
+### License
+
+MIT
+
+## Build Setup
+
+```bash
+# Install dependencies
+npm i
+
+# Run locally
+npm start
+
+# Build for production with minification
+npm run build
+```
