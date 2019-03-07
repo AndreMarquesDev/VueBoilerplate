@@ -13,9 +13,9 @@ PWA ready
 
 ### Author
 
-André Marques
-GitHub: https://github.com/AndreMarquesDev
-CodePen: https://codepen.io/AndreMarquesDev
+André Marques  
+GitHub: https://github.com/AndreMarquesDev  
+CodePen: https://codepen.io/AndreMarquesDev  
 Twitter: https://twitter.com/BazingaCS
 
 ### License
